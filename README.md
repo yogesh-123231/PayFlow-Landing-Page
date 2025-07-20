@@ -1,73 +1,90 @@
-# Welcome to your Lovable project
+<h1 align="center">💸 PayFlow - Modern Fintech Landing Page</h1>
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/34b74e49-2ff4-4fc1-94a3-0f78472eb493
+## 🛠️ Built With
 
-## How can I edit this code?
+<p align="center">
+   <img src="https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react" height="28" style="margin: 4px;"> 
+    <img src="https://img.shields.io/badge/TailwindCSS-4.1.8-38B2AC?style=for-the-badge&logo=tailwind-css" height="28" style="margin: 4px;"> 
+    <img src="https://img.shields.io/badge/Vite-6.3.5-646CFF?style=for-the-badge&logo=vite" height="28" style="margin: 4px;"> 
+ <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=radix-ui&logoColor=white" />
+</p>
 
-There are several ways of editing your application.
+<p align="center">
+  A sleek, responsive, and modern landing page designed for payment and fintech platforms.
+</p>
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/34b74e49-2ff4-4fc1-94a3-0f78472eb493) and start prompting.
+## 🚀 Live Demo:
 
-Changes made via Lovable will be committed automatically to this repo.
+Check out the fully deployed project here:
 
-**Use your preferred IDE**
+<p align="left"> <a href="https://payflow-landing-page.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge"> </a> </p>
+Or directly visit 👉 job-portal24.netlify.app
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ⚡ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Purpose        | Tech Used                               |
+|----------------|------------------------------------------|
+| 🚀 Framework   | [Vite](https://vitejs.dev/)              |
+| ⚛️ Frontend   | [React](https://react.dev/)              |
+| 🎨 Styling     | [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/) |
+| 💎 Icons       | [Lucide Icons](https://lucide.dev/)      |
+| 🌍 Hosting     | [Netlify](https://netlify.com/)          |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ✨ Features
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- 🌐 Fully responsive layout
+- ⚡ Fast build with Vite
+- 💎 Modern UI using shadcn + Tailwind
+- 🎯 Perfect for SaaS/Fintech/Payment platforms
+- 🌈 Gradient and blurred background effects
+- 📱 Mobile-first design
+
+---
+
+
+
+## 🛠 Installation & Usage
+
+# Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/PayFlow-Landing-Page.git
+cd PayFlow-Landing-Page
+```
+# Install dependencies
+```
+npm install
+```
+# Start development server
+```
 npm run dev
 ```
+# Build for production
+```
+npm run build
+```
+---
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 🙋‍♂️ Connect With Me
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/34b74e49-2ff4-4fc1-94a3-0f78472eb493) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+<p align="center">
+  <a href="mailto:yogeshdumane70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-dumane/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/yogesh-123231">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
