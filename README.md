@@ -22,7 +22,7 @@
 
 Check out the fully deployed project here:
 
-<p align="left"> <a href="[https://job-portal24.netlify.app](https://app.netlify.com/projects/payflow-landing-page/overview)" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge"> </a> </p>
+<p align="left"> <a href="https://app.netlify.com/projects/payflow-landing-page/overview" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge"> </a> </p>
 Or directly visit 👉 job-portal24.netlify.app
 
 
